@@ -16,8 +16,8 @@ public class App {
 
     public static void main(String[] args) {
         User user = new User();
-//        save(user);
-        update(user);
+        save(user);
+//        update(user);
     }
 
     public static void save(User user){
